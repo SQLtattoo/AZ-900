@@ -1,5 +1,5 @@
 ﻿﻿# AZ-900 learning
-
+* [https://docs.microsoft.com/en-us/learn/certifications/exams/az-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 * [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA)
 * [https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 * [https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform](https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform)
