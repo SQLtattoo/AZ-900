@@ -1,0 +1,18 @@
+﻿﻿# AZ-900 Module 2
+
+* [Data Residency in Azure | Microsoft Azure](https://azure.microsoft.com/en-us/global-infrastructure/data-residency/)
+* [Ensure business continuity & disaster recovery using Azure Paired Regions | Microsoft Docs](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
+* [Choose the Right Azure Region for You | Microsoft Azure](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
+* [Regions and Availability Zones in Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+* [Azure Resource Manager documentation | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
+* [Offer Details | Microsoft Azure](https://azure.microsoft.com/en-us/support/legal/offer-details/)
+* [Azure management groups documentation | Microsoft Docs](https://docs.microsoft.com/en-us/azure/governance/management-groups/)
+* [Virtual Machines (VMs) for Linux and Windows | Microsoft Azure](https://azure.microsoft.com/en-us/services/virtual-machines/)
+* [App Service | Microsoft Azure](https://azure.microsoft.com/en-us/services/app-service/)
+* [Azure Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/services/container-instances/)
+* [Azure Kubernetes Service (AKS) | Microsoft Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+* [What is Windows Virtual Desktop? - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
+* [Networking | Microsoft Azure](https://azure.microsoft.com/en-us/product-categories/networking/)
+* [Azure Cloud Storage Solutions and Services | Microsoft Azure](https://azure.microsoft.com/en-us/product-categories/storage/)
+* [Azure Cosmos DB – Non-Relational Database | Microsoft Azure](https://azure.microsoft.com/en-us/services/cosmos-db/)
+* [SQL Database - Cloud Database as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/services/sql-database/)

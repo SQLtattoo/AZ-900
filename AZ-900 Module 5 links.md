@@ -1,0 +1,16 @@
+﻿﻿# AZ-900 Module 5
+
+* [Azure AD Multi-Factor Authentication overview | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
+* [Azure Active Directory | Microsoft Azure](https://azure.microsoft.com/en-us/services/active-directory/)
+* [Lock resources to prevent changes - Azure Resource Manager | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
+* [Azure Policy Cloud and Compliance Management | Microsoft Azure](https://azure.microsoft.com/en-us/services/azure-policy/)
+* [Azure Blueprints – Governed Cloud Environments | Microsoft Azure](https://azure.microsoft.com/en-us/services/blueprints/)
+* [Microsoft Cloud Adoption Framework for Azure - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+* [Microsoft Privacy Statement – Microsoft privacy](https://privacy.microsoft.com/en-us/privacystatement)
+* [Licensing Terms | Microsoft Volume Licensing](https://www.microsoft.com/en-us/licensing/product-licensing/products)
+* [Microsoft Volume Licensing - Product Licensing Search](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67)
+* [https://servicetrust.microsoft.com/ViewPage/TrustDocuments](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+* [Microsoft Compliance Manager - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager?view=o365-worldwide)
+* [Compliance offerings for Microsoft 365, Azure, and other Microsoft services. | Microsoft Docs](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home)
+* [Government Cloud Computing | Microsoft Azure](https://azure.microsoft.com/en-us/global-infrastructure/government/)
+* [Azure China Playbook | Microsoft Docs](https://docs.microsoft.com/en-us/azure/china/)
